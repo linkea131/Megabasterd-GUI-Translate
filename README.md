@@ -1,1 +1,1 @@
-# megabasterd GUI translate
+# Megabasterd GUI Translate
