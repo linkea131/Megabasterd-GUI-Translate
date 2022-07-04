@@ -268,7 +268,7 @@ _addTranslation("Pro:", "Pro:");
 _addTranslation("Wait:", "等待:");
 _addTranslation("Run:", "下载中:");
 _addTranslation("Finish:", "完成:");
-_addTranslation("Rem:", "");
+_addTranslation("Rem:", "Rem:");
 _addTranslation("Link Grabber", "请输入下载链接");
 _addTranslation("Select DLC container", "选择 DLC 容器");
 _addTranslation("No MEGA accounts available (Go to Settings > Accounts)", "没有可用的 MEGA 帐户 (前往设置 > 账户)");
